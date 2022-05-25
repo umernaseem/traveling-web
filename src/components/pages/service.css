@@ -1,0 +1,55 @@
+img{
+    height: 7rem;
+    /* display: inline; */
+    cursor: pointer;
+    
+}
+
+section{
+
+width: 80%;
+margin: auto;
+margin-top: 5%;
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-template-rows: auto;
+
+
+}
+/* #services{
+    display: flex;
+  flex-flow: row;
+  align-items: center;
+  max-width: 1180px;
+  width: 90%;
+  margin: 0 auto;
+
+
+
+
+} */
+.service{
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+  
+    /* display: flex;
+    flex-flow: row;  */
+  /* margin: 50px 0 45px; */
+  margin: 8%;
+  
+
+
+
+}
+.icon{
+
+    margin-bottom: 2px;
+
+}
+/* .headclass{
+    border-bottom: 4px solid #fff;
+  transition: all 0.2s ease-out;
+  cursor: pointer;
+} */
+

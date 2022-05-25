@@ -1,0 +1,10 @@
+.form{
+    /* background-color: blue; */
+    /* background-image: url('../../images/barbell-main.jpg'); */
+    background-position: 'center';
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-size: cover;
+        width: '100vw';
+        height: '100vh';  
+}
